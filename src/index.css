@@ -30,3 +30,23 @@
   button {
     cursor: pointer; 
   }
+
+  .nav{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    background-color:silver;
+    color: #641313;
+  }
+
+  .error{
+
+    display: flex;
+
+    width: 100%;
+    height: 500px;
+
+    align-items: center;
+    justify-content: center;
+
+  }
